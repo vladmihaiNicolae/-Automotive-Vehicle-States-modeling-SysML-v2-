@@ -11,7 +11,7 @@ The project focuses on modeling the functional and structural aspects of an auto
 ### System architecture and concepts applied
 - a state diagram for accessories sub-states
 - the architecture of elements contributing to accessories sub-states state machine (eg RF key module, key cylinder sensor, CAN bus, door sensor)
-- use-cases for passing between different states
+- requirements and use-cases for passing between different states
 - action flow diagram, from vehicle sleeping / locked to engine running (including if condition)
 
 ### Tools used
