@@ -1,17 +1,17 @@
 
-- events which make state to change are declared as **parts**
+- events which make state to change are declared as **attributes**
 - the **behaviour** is modeled
 
 private import SI::*;
 
-state def Accessory states {
+    attribute def LockUnlockDoorsEvent;
+    attribute def IgnitionPositionEvent;
+    attribute def StartPositionEvent;
+    attribute def EngineOffEvent;
+    attribute def MultimediaRequestEvent;
+    attribute def DoorOpenEvent;
 
-    part def LockUnlockDoorsEvent;
-    part def IgnitionPositionEvent;
-    part def StartPositionEvent;
-    part def EngineOffEvent;
-    part def MultimediaRequestEvent;
-    part def DoorOpenEvent;
+state def Accessory_states {
 
         state st1; // Locked / Sleeping
         state st3; // Unlocked
