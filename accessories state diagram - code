@@ -1,6 +1,9 @@
+
+- events are declared as **parts**
+
 private import SI::*;
 
-state def VehicleStates {
+state def Accessory states {
 
     part def LockUnlockDoorsEvent;
     part def IgnitionPositionEvent;
