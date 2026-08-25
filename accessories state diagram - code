@@ -1,5 +1,6 @@
 
-- events are declared as **parts**
+- events which make state to change are declared as **parts**
+- the **behaviour** is modeled
 
 private import SI::*;
 
