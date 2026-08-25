@@ -1,4 +1,4 @@
-# -Automotive-Vehicle-States-modeling-SysML-v2-
+# -Automotive-Systems-Engineering : Vehicle-States-modeling-SysML-v2-
 A conceptual Model-Based Systems Engineering (MBSE) project demonstrating the power-state transitions and requirements of a modern automotive ECU using the new SysML v2 standard
 
 *Note: This is a personal research project. All architectures, requirements, and behaviors modeled here are generic and do not contain any proprietary or confidential data.*
