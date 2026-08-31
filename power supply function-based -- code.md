@@ -1,4 +1,6 @@
 
+- the **behaviour** is modeled by **function-based** representation
+
 package PowerSupply {
 
     private import ScalarValues::*;
