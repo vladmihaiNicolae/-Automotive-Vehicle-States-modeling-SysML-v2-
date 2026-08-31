@@ -9,7 +9,7 @@ The goal of this personal project is to explore the capabilities of the text-bas
 The project focuses on modeling the functional and structural aspects of an automotive accessory power supply sub-system
 
 ### System architecture and concepts applied
-- a state diagram for accessories sub-states
+- a state diagram with focus on accessories sub-states
 - the architecture of elements contributing to accessories sub-states state machine (eg RF key module, key cylinder sensor, CAN bus, door sensor)
 - requirements and use-cases for passing between different states
 - action flow diagram, from vehicle sleeping / locked to engine running (including if condition)
