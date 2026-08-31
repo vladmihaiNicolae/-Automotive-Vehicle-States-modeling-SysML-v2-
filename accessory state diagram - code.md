@@ -1,7 +1,7 @@
 
 - events (eg LockUnlockDoorsEvent, IgnitionPositionEvent ... )  which make state to change are declared as **attributes** ; 
     more appropriate would be to declare them as **events**, **messages** or **signals**, but Jupyter lab doesn't recognise these types (I get errors at code compilation) ;
-- the **behaviour** is modeled
+- the **behaviour** is modeled by **state-based** representation
 
 private import SI::*;
 
