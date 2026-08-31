@@ -1,5 +1,6 @@
 
 - the **behaviour** is modeled by **sequence-based** representation
+
 package PowerSupplySequenceModel {
 
     private import ScalarValues::*;
