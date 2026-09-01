@@ -1,5 +1,5 @@
 
-
+the bellow diagram is generated with Gemini, based on associated code in this repository, because Jupyer lab creates an interconnection diagram not very clear
 
 +---------------------------------------------------------------------------------------------------+
 
@@ -22,3 +22,4 @@
 |                                                                       |              [wireIn] |   |
 |                                                                       +-----------------------+   |
 +---------------------------------------------------------------------------------------------------+
+
